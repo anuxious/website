@@ -466,6 +466,7 @@ text-align: right;}
 
 .about2__container {
  row-gap: 2.5rem;
+ display: flex;
 }
 
 .about2__description {
@@ -475,7 +476,7 @@ text-align: right;}
 .about2__img {
  display: flex;
  column-gap: 1rem;
- align-items: center;
+ align-items: left;
  justify-content: left;
 }
 

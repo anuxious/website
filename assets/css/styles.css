@@ -985,6 +985,24 @@ transform: var(--img-scale);
     margin-left: auto;
     margin-right: auto;
   }
+  .about2__container {
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+  }
+  .about2__data, .about__title {
+    text-align: initial;
+  }
+  .about2__title {
+    margin-bottom: var(--mb-1-5);
+  }
+  .about2__description {
+    margin-bottom: var(--mb-2);
+  }
+  .discover__container {
+    width: 610px;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .discover__container,
   .place__container {
     padding-top: 2rem;

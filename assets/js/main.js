@@ -143,6 +143,18 @@ sr.reveal(`.about__img-overlay,
     interval: 100,
 })
 
+sr.reveal(`.about2__data, 
+           .video__description,
+           .subscribe__description`,{
+    origin: 'right',
+})
+
+sr.reveal(`.about__img-overlay, 
+           .video__content,
+           .subscribe__form`,{
+    origin: 'left',
+    interval: 100,
+})
 /*==================== DARK LIGHT THEME ====================*/ 
 const themeButton = document.getElementById('theme-button')
 const darkTheme = 'dark-theme'

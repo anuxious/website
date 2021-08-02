@@ -998,6 +998,9 @@ transform: var(--img-scale);
   .about2__description {
     margin-bottom: var(--mb-2);
   }
+  .about2__img {
+  display: none;
+}
   .discover__container {
     width: 610px;
     margin-left: auto;

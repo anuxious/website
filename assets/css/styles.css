@@ -465,7 +465,7 @@ margin-bottom: var(--mb-2);}
 text-align: right;}
 
 .about2__container {
- row-gap: 2.5rem;
+ row-gap: 2rem;
  display: flex;
 }
 

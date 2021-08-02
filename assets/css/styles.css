@@ -452,6 +452,13 @@ input {
 .about2__title h2{
   text-align: right;}
 
+.section__title about2__title{
+  font-size: var(--h2-font-size);
+  color: var(--title-color);
+  text-align: right;
+  text-transform: capitalize;
+  margin-bottom: var(--mb-2);
+}
 
 .about2__data {
 text-align: right;}

@@ -449,7 +449,8 @@ input {
 
 /*=============== about2 ===============*/
 
-
+.section__title about2__title {
+  text-align: right;}
 
 
 .about2__data {

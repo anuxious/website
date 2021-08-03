@@ -985,8 +985,8 @@ transform: var(--img-scale);
   
    .about2__container {
     grid-template-columns: repeat(2, 1fr);
-    align-items: right;
-    justify-content: right;
+    align-items: center;
+    
   }
   .about2__data, .about2__title {
     text-align: initial;

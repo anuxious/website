@@ -119,7 +119,7 @@ body.down .header-default.clone {
 }
 
 .navbar-nav .nav-link:hover {
-    color: #203656;
+    color: #8EBCFC;
 }
 
 .navbar-nav li.active .nav-link {
@@ -345,7 +345,7 @@ button:focus {
 
 .social-icons a {
     font-size: 16px;
-    color: #203656;
+    color: #8EBCFC;
 }
 
 .social-icons a:hover {

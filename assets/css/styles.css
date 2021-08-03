@@ -449,10 +449,10 @@ input {
 
 /*=============== about2 ===============*/
 
-.about2__title{
+/* .about2__title{
  align-content: right;
 justify-content: right;
-margin-bottom: var(--mb-2);}
+margin-bottom: var(--mb-2);} */
 
 /* .section__title about2__title{
   font-size: var(--h2-font-size);
@@ -463,9 +463,7 @@ margin-bottom: var(--mb-2);}
 } */
 
 .about2__data {
-text-align: right;
-align-items: right;
- justify-content: right;}
+  text-align: center;}
 
 .about2__container {
  row-gap: 500rem;

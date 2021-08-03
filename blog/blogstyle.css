@@ -718,7 +718,7 @@ section {
 
 .featured-post-lg .thumb::after {
     content: "";
-    background: #D8B9C3;
+    background: #394154;
     display: block;
     height: 100%;
     left: 0;

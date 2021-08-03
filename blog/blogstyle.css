@@ -81,6 +81,7 @@ a:focus {
     padding: 40px 0;
     position: relative;
     width: 100%;
+    background-color: #121212;
 }
 
 .header-default .navbar-nav {

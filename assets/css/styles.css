@@ -982,8 +982,8 @@ transform: var(--img-scale);
   }
   
    .about2__container {
-    grid-template-columns: repeat(1fr, 2);
-    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: right;
   }
   .about2__data, .about2__title {
     text-align: initial;

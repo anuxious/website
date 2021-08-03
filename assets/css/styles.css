@@ -984,11 +984,11 @@ transform: var(--img-scale);
   
    .about2__container {
     grid-template-columns: repeat(2, 1fr);
-    align-items: center;
+    align-items: right;
     
   }
   .about2__data, .about2__title {
-    text-align: initial;
+    text-align: right;
   }
   .about2__title {
     margin-bottom: var(--mb-1-5);

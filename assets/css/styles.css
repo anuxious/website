@@ -1035,9 +1035,6 @@ transform: var(--img-scale);
   }
  
 }
-@media screen and (max-width: 768px) {
-  body {
-    .about2__img { display: none;}}
 
 /* For large devices */
 @media screen and (min-width: 1024px) {

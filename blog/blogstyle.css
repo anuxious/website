@@ -325,7 +325,7 @@ button:focus {
     border: 0;
     border-radius: 50%;
     background-color: #6e72fc;
-    background-image: linear-gradient(315deg, #6e72fc 0%, #D8B9C3 74%);
+    background-image: linear-gradient(315deg, #6e72fc 0%, #394154 74%);
     background-size: auto 200%;
     display: inline-flex;
     justify-content: center;
@@ -1196,7 +1196,7 @@ section {
     width: 30px;
     box-shadow: 0 2px 4px 0px rgba(0, 0, 0, 0.15);
     background-color: #6e72fc;
-    background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
+    background-image: linear-gradient(315deg, #6e72fc 0%, #394154 74%);
     z-index: 1;
 }
 
@@ -1250,7 +1250,7 @@ section {
     width: 24px;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
     background: #6e72fc;
-    background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
+    background-image: linear-gradient(315deg, #6e72fc 0%, #394154 74%);
     z-index: 1;
 }
 
@@ -1318,7 +1318,7 @@ section {
     color: #fff;
     padding: 9.5px 36px;
     background-color: #6e72fc;
-    background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
+    background-image: linear-gradient(315deg, #6e72fc 0%, #394154 74%);
     background-size: 200% auto;
 }
 

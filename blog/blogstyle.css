@@ -604,7 +604,7 @@ section {
 
 .hero::after {
     content: "";
-    background: #D8B9C3;
+    background: #FCDAB7;
     display: block;
     left: 0;
     opacity: 0.8;

@@ -1033,8 +1033,11 @@ transform: var(--img-scale);
     flex-direction: row;
     justify-content: space-between;
   }
-  .about2__img { display: none;}
+ 
 }
+@media screen and (max-width: 768px) {
+  body {
+    .about2__img { display: none;}}
 
 /* For large devices */
 @media screen and (min-width: 1024px) {

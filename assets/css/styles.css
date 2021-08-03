@@ -1033,6 +1033,7 @@ transform: var(--img-scale);
     flex-direction: row;
     justify-content: space-between;
   }
+  .about2__img { display: none;}
 }
 
 /* For large devices */

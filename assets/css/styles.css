@@ -466,9 +466,8 @@ margin-bottom: var(--mb-2);} */
   text-align: center;}
 
 .about2__container {
- row-gap: 500rem;
- display: flex;
-  align-content: right;
+ row-gap: 1rem;
+ 
 }
 
 .about2__description {

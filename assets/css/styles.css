@@ -477,7 +477,7 @@ text-align: right;}
  display: flex;
  column-gap: 1rem;
  align-items: left;
- justify-content: left;
+ justify-content: center;
 }
 
 .about2__img-overlay {

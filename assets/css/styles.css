@@ -467,7 +467,7 @@ align-items: right;
  justify-content: right;}
 
 .about2__container {
- row-gap: 50%;
+ row-gap: 500rem;
  display: flex;
 }
 

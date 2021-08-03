@@ -462,7 +462,9 @@ margin-bottom: var(--mb-2);}
 } */
 
 .about2__data {
-text-align: right;}
+text-align: right;
+align-items: right;
+ justify-content: right;}
 
 .about2__container {
  row-gap: 2rem;

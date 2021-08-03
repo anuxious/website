@@ -981,23 +981,6 @@ transform: var(--img-scale);
     margin-bottom: var(--mb-2);
   }
   
-  
-/*   not sure */
-    .about2__container {
-    grid-template-columns: repeat(2, 1fr);
-    align-items: center;
-  }
-  .about2__data, .about2__title {
-    text-align: initial;
-  }
-  .about2__title {
-    margin-bottom: var(--mb-1-5);
-  }
-  .about2__description {
-    margin-bottom: var(--mb-2);
-  }
-  
-  
   .discover__container {
     width: 610px;
     margin-left: auto;

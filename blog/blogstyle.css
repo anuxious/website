@@ -860,7 +860,7 @@ section {
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff !important;
     background-color: #6e72fc;
-    background-image: linear-gradient(315deg, #6e72fc 0%, #D8B9C3 74%);
+    background-image: linear-gradient(315deg, #6e72fc 0%, #394154 74%);
     border-color: transparent;
     background-size: 200% auto;
 }
